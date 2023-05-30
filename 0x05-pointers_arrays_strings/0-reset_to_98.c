@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * rest_to_98 - Takes a pointer to an int and updates
  * the vlue it points to 98
